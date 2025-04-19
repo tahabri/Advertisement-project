@@ -1,0 +1,2 @@
+
+This project is about advertisements for finding jobs, connecting employers with employees or individuals looking for projects. Our platform serves as a marketplace where employers can post job openings, and job seekers can search for and apply to these opportunities.
